@@ -1,0 +1,8 @@
+[pytest]
+
+markers =
+    positive: позитивные тесты
+    negative: негативные тесты
+    api: API-тесты
+    ui: UI Tests
+    smoke: Smoke Tests
